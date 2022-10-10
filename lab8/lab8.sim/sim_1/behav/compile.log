@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ugrads/j/jay123q/Ecen350/nextpc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module NextPCLogic
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ugrads/j/jay123q/Ecen350/nextpc_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module NextPClogicTest
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ugrads/j/jay123q/Ecen350/lab8/lab8.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

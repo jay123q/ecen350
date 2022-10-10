@@ -1,0 +1,4 @@
+Running: xsim.dir/NextPClogicTest_behav/xsimk -simmode gui -wdb NextPClogicTest_behav.wdb -simrunnum 0 -socket 41691
+Design successfully loaded
+Design Loading Memory Usage: 244528 KB (Peak: 244556 KB)
+Design Loading CPU Usage: 30 ms

@@ -1,0 +1,15 @@
+Vivado Simulator 2015.2
+Copyright 1986-1999, 2001-2015 Xilinx, Inc. All Rights Reserved.
+Running: /opt/coe/Xilinx/Vivado/2015.2/bin/unwrapped/lnx64.o/xelab -wto bbf2fbf104934e168b329127dacbd481 --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot ALUTest_v_behav xil_defaultlib.ALUTest_v xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "/home/ugrads/j/jay123q/Ecen350/lab7/ALU.v" Line 7. Module alu doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/ugrads/j/jay123q/Ecen350/lab7/ALU.v" Line 7. Module alu doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.alu
+Compiling module xil_defaultlib.ALUTest_v
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot ALUTest_v_behav
